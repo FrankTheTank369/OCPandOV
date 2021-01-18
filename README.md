@@ -1,5 +1,6 @@
 # OCPandOV
 Display and description of my MLB statistics
+
 OCP: Opportunities Created Percentage; OV: Offensive Value
 
 OCP is comparable to Fangraphs’ wOBA as an all-encompassing offensive statistic. OCP is a better metric, because wOBA focuses on a player’s overall offensive ability, whereas OCP focuses on a player’s ability to create baserunning opportunities and scoring chances for both himself and his teammates. OCP measures every aspect that a player can advance a base, including hits, walks, hit-by-pitches, stolen bases, sacrifice flies, and sacrifice hits.
